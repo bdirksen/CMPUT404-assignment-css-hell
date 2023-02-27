@@ -22,3 +22,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+my css changes:
+    added blackground image
+    change text color to black
+    made headers bold
+    increased all font size 125%
+    change font to bookman old style
+
+changes in html files:
+    removed all styling from html files
