@@ -1,0 +1,46 @@
+
+
+* {
+    background-image: url("ugly.png"); /* The image used */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.image{
+    height: 0px;
+    width: 0px;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Comic sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: #2ce906;
+    border:  5px solid #e90606;
+}
+
+h2 {
+    font-size: 30px;
+    color: #2ce906;
+    border:  5px solid #e90606;
+}
+
+h3 {
+    font-size: 20px;
+    color: #2ce906;
+    border:  5px solid #e90606;
+}
+
+h4 {
+    font-size: 15px;
+    color: #2ce906;
+    border:  5px solid #e90606;
+}
